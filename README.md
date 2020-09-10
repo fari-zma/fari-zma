@@ -36,4 +36,4 @@ I'm farizma
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fari-zma&layout=compact" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=fari-zma&show_icons=true&theme=dracula" />
+<img src="https://github-readme-stats.vercel.app/api?username=fari-zma&show_icons=true" />
