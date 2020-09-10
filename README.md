@@ -9,8 +9,7 @@ I'm farizma
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-<!-- ### Connect with me: -->
-### 📫 How to reach me:
+### Connect with me:
 
 <!--
 [<img src="https://www.flaticon.com/svg/static/icons/svg/1063/1063299.svg" width="32" height="32">](https://farizma.netlify.app/)
