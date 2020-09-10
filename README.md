@@ -18,6 +18,7 @@ I'm farizma
 [<img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384005.svg" width="32" height="32">](https://www.fb.com/farizma.2531)
 [<img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384014.svg" width="32" height="32">](https://www.linkedin.com/in/khadijatahseen/)
 [<img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384012.svg" width="32" height="32">](https://www.youtube.com/c/farizma)
+</br>
 
 ### Languages and Tools:
 
@@ -33,7 +34,8 @@ I'm farizma
 <img src="https://img.icons8.com/color/2x/adobe-illustrator.png" width="32" height="32"/>
 <img src="https://img.icons8.com/color/2x/git.png" width="32" height="32"/>
 <img src="https://img.icons8.com/fluent/2x/visual-studio-code-2019.png" width="32" height="32"/>
+</br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fari-zma&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fari-zma&layout=compact" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=fari-zma&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=fari-zma&show_icons=true" />
