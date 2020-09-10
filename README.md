@@ -33,3 +33,10 @@ I'm farizma
 <img src="https://img.icons8.com/color/2x/adobe-illustrator.png" width="32" height="32"/>
 <img src="https://img.icons8.com/color/2x/git.png" width="32" height="32"/>
 <img src="https://img.icons8.com/fluent/2x/visual-studio-code-2019.png" width="32" height="32"/>
+
+
+### ⚡ Github Stats:
+
+[!Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fari-zma&layout=compact)(https://github.com/fari-zma/github-readme-stats)
+
+[!farizma's github stats](https://github-readme-stats.vercel.app/api?username=fari-zma&show_icons=true&theme=dracula)](https://github.com/fari-zma/github-readme-stats)
