@@ -37,6 +37,7 @@ I'm farizma
 
 ### ⚡ Github Stats:
 
-[!Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fari-zma&layout=compact)(https://github.com/fari-zma/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fari-zma&layout=compact" />
+<!-- [!Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fari-zma&layout=compact)(https://github.com/fari-zma/github-readme-stats)
 
-[!farizma's github stats](https://github-readme-stats.vercel.app/api?username=fari-zma&show_icons=true&theme=dracula)](https://github.com/fari-zma/github-readme-stats)
+[!farizma's github stats](https://github-readme-stats.vercel.app/api?username=fari-zma&show_icons=true&theme=dracula)](https://github.com/fari-zma/github-readme-stats) -->
