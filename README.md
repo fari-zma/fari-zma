@@ -1,7 +1,7 @@
 ### Hi there 👋 
-I'm farizma
-<!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning <strong>Django</strong>
+## I'm farizma
+- 🔭 I’m currently working as a **Web Developer, Intern**
+- 🌱 I’m currently learning ***ReactJs***
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
