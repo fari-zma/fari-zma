@@ -1,8 +1,11 @@
-### Hi there 👋 
-## I'm farizma
+<!-- ### Hi there 👋  -->
 
-- 🌱 I’m currently learning **ReactJs** in deep.
+[<img src="https://github.com/user-attachments/assets/5008ae0c-93db-4113-ad14-cf78d21fba90" width="32" height="32">](https://nohello.net/)
+
+<!-- ## I'm farizma -->
+
 <!-- 
+- 🌱 I’m currently learning **ReactJs** in deep.
 - 🔭 I’m currently working as a **Web Developer, Intern** 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,13 +16,18 @@
 
 ### Connect with me:
 
+
 <!--
 [<img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384005.svg" width="32" height="32">](https://www.fb.com/farizma.2531)
 [<img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384015.svg" width="32" height="32">](https://www.instagram.com/fari_zma)
 -->
-[<img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384014.svg" width="32" height="32">](https://www.linkedin.com/in/khadijatahseen/)
-[<img src="https://www.flaticon.com/svg/static/icons/svg/1063/1063299.svg" width="32" height="32">](https://farizma.netlify.app/)
-[<img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384012.svg" width="32" height="32">](https://www.youtube.com/c/farizma)
+[<img src="https://github.com/user-attachments/assets/393cd431-891b-4c88-a780-9b0f8a03f270" width="32" height="32">](https://www.linkedin.com/in/khadijatahseen/)
+[<img src="https://github.com/user-attachments/assets/b0a734fd-23ac-4f4d-91f1-026694a46ab7" width="32" height="32">](https://farizma.netlify.app/)
+[<img src="https://github.com/user-attachments/assets/ae378111-3257-405b-a60c-aa6ace741814" width="32" height="32">](https://www.youtube.com/farizma)
+[<img src="https://github.com/user-attachments/assets/1af6df48-0886-4ba6-9e91-a2a5a9b91d84" width="32" height="32">](https://www.leetcode.com/farizma)
+
+
+
 </br>
 
 ### Languages and Tools:
