@@ -14,11 +14,11 @@
 ### Connect with me:
 
 <!--
-[<img src="https://www.flaticon.com/svg/static/icons/svg/1063/1063299.svg" width="32" height="32">](https://farizma.netlify.app/)
--->
-[<img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384015.svg" width="32" height="32">](https://www.instagram.com/fari_zma)
 [<img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384005.svg" width="32" height="32">](https://www.fb.com/farizma.2531)
+[<img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384015.svg" width="32" height="32">](https://www.instagram.com/fari_zma)
+-->
 [<img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384014.svg" width="32" height="32">](https://www.linkedin.com/in/khadijatahseen/)
+[<img src="https://www.flaticon.com/svg/static/icons/svg/1063/1063299.svg" width="32" height="32">](https://farizma.netlify.app/)
 [<img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384012.svg" width="32" height="32">](https://www.youtube.com/c/farizma)
 </br>
 
